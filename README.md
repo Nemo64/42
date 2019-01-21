@@ -7,7 +7,7 @@
 
 PHP implementation of Deep Thought
 
-##Example
+## Example
 
 ```PHP
 $deepThought = new \DeepThought();
